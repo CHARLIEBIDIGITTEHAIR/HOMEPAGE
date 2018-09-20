@@ -10,7 +10,7 @@ class App extends Component {
                 {/* <h1 className = "App-title"> CHARLIE BRIGITTE HAIR
                </h1> */} 
             </header>
-            // <p className = "App-intro" >
+            <p className = "App-intro" >
             </p>  
             </div>
         );
